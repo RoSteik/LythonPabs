@@ -16,4 +16,6 @@ class Student:
         return f'Student - {self.__name} {self.__surname} has average progress {self.__progress}'
 
     def do_homework(self):
-        print(f'Homework is done')
+        print('Homework is done')
+
+
